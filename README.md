@@ -39,19 +39,16 @@ Honorable Mention
 The Old Standbys
 ----------------
 * Gnu Privacy Guard (GPG): https://www.gnupg.org/
-    * Plugins:
-        * GPGTools for OS X Mail: https://gpgtools.org/
-        * GPG4win for Windows: http://gpg4win.org/
-        * Enigmail for Thunderbird: https://www.enigmail.net/home/index.php
+    * GPGTools for OS X Mail: https://gpgtools.org/
+    * GPG4win for Windows: http://gpg4win.org/
+    * Enigmail for Thunderbird: https://www.enigmail.net/home/index.php
 * OpenSSH: http://www.openssh.com/
 * Tor: https://www.torproject.org/
 * Off-the-Record (OTR): https://otr.cypherpunks.ca
     * Ian Goldberg & Jake Applebaum (@ioerror)
-    * Used by several clients, including derivative by TextSecure
+    * Pidgin's Off-the-Record plugin: https://otr.cypherpunks.ca/index.php#downloads
+    * Adium has native integration: https://adium.im/
     * ☢ Invisible.im: New project XMPP/OTR using Tor Hidden services
-    * Implementations:
-        * Pidgin's Off-the-Record plugin: https://otr.cypherpunks.ca/index.php#downloads
-        * Adium has native integration: https://adium.im/
 
 The SSL Libraries
 -----------------
