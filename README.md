@@ -3,7 +3,16 @@ Crypto Projects that Might not Suck
 
 This document originated with an informal survey of Twitter and several mailing lists asking for nominations for crypto projects that "didn't suck". Over 100 nominations were received and culled down to this list. Projects marked with an "☢" symbol are relatively new and considered experimental. Apologies to project creators who are omitted. Corrections are welcome via pull request.
 
-This list is largely geared toward crypto enthusiastists and developers, rather than end users. It is not (yet) an endorsement of what to use.
+
+End User Tool Summary
+---------------------
+This is a quick summary of tools that are generally recommended for end users. See the [Encryption Works](https://pressfreedomfoundation.org/encryption-works) guide for more information.
+
+* [GPG](https://www.gnupg.org/): Email encryption
+* [TextSecure](https://github.com/whispersystems/textsecure/): Encrypted SMS Messaging
+* [RedPhone](https://github.com/whispersystems/redphone/): Encrypted voice calls
+* [OTR](https://otr.cypherpunks.ca/): Encrypted instant messaging
+* [Tor](https://www.torproject.org/): Protect from network surveillance
 
 The People’s Choice
 -------------------
