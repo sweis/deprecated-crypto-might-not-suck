@@ -25,6 +25,9 @@ The People’s Choice
 * RedPhone: Secure calling app for Android
     * ZRTP for key agreement, SRTP for call encryption
     * https://github.com/whispersystems/redphone/
+* Signal: Encrypted phone calls for iPhone
+    * Private messaging in the pipeline
+    * https://github.com/WhisperSystems/Signal-iOS
 
 Honorable Mention
 -----------------
@@ -152,3 +155,8 @@ Miscellaneous Project
     * Decentralized authentication for distributed systems
     * Paper: Chalmers/Brown/Google; Code: Robert Escriva (@rescrv)
 
+Learning and Resources
+-----------------
+* Matasano Crypto Challenges: http://cryptopals.com/
+* Underhanded Crypto Contest: https://underhandedcrypto.com
+* Modern Crypto mailing lists: https://moderncrypto.org/
