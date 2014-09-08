@@ -38,6 +38,9 @@ Honorable Mention
 * ☢ libsodium: https://github.com/jedisct1/libsodium
     * Portable, cross-compatible NaCL
     * OpenDNS & Frank Denis (@jedisct1)
+* ☢ curve25519-donna: https://code.google.com/p/curve25519-donna/
+    * 64-bit implementation of just curve25519
+    * Adam Langley (@agl__)
 
 The Old Standbys
 ----------------
@@ -157,6 +160,6 @@ Miscellaneous Project
 
 Learning and Resources
 -----------------
-* Matasano Crypto Challenges: http://cryptopals.com/
+* Matasano Crypto Challenges (@tqbf): http://cryptopals.com/
 * Underhanded Crypto Contest: https://underhandedcrypto.com
-* Modern Crypto mailing lists: https://moderncrypto.org/
+* Modern Crypto mailing lists (@trevp__): https://moderncrypto.org/
