@@ -163,3 +163,4 @@ Learning and Resources
 * Matasano Crypto Challenges (@tqbf): http://cryptopals.com/
 * Underhanded Crypto Contest: https://underhandedcrypto.com
 * Modern Crypto mailing lists (@trevp__): https://moderncrypto.org/
+* CryptoBib bibliography (@daeinar): http://cryptobib.di.ens.fr/init/default/index
