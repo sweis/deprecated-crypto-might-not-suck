@@ -124,6 +124,7 @@ Community Efforts
     * Audited TrueCrypt. Great technical advisory board.
 * Better Crypto: https://bettercrypto.org/
     * Community-generated guidelines for applied crypto hardening
+* Crypto Coding Standard: https://cryptocoding.net/
 * ☢ Password Hashing Competition: https://password-hashing.net/
     * Community-driven contest for password hashing replacement
 * ☢ Safe Curves: http://safecurves.cr.yp.to/
