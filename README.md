@@ -165,3 +165,4 @@ Learning and Resources
 * Underhanded Crypto Contest: https://underhandedcrypto.com
 * Modern Crypto mailing lists (@trevp__): https://moderncrypto.org/
 * CryptoBib bibliography (@daeinar): http://cryptobib.di.ens.fr/init/default/index
+* 52 Things People Should Know To Do Cryptography: http://www.cs.bris.ac.uk/Research/CryptographySecurity/knowledge.html
