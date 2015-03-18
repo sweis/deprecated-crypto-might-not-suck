@@ -18,7 +18,6 @@ The People’s Choice
 -------------------
 * Open Whisper Systems: https://whispersystems.org/
     * Moxie Marlinspike (@moxie) & open source community
-    * Acquired by Twitter 2011
 * TextSecure: Encrypt your texts and chat messages for Android
     * OTP-like forward security & Axolotl key racheting by @trevp__
     * https://github.com/whispersystems/textsecure/
