@@ -50,7 +50,7 @@ The Old Standbys
 * OpenSSH: http://www.openssh.com/
 * Tor: https://www.torproject.org/
 * Off-the-Record (OTR): https://otr.cypherpunks.ca
-    * Ian Goldberg & Jake Applebaum (@ioerror)
+    * Ian Goldberg, David Goulet (@ev0ke42), Jake Applebaum (@ioerror), & Jurre van Bergen (@DrWhax)
     * Pidgin's Off-the-Record plugin: https://otr.cypherpunks.ca/index.php#downloads
     * Adium has native integration: https://adium.im/
     * ☢ Invisible.im: New project XMPP/OTR using Tor Hidden services
