@@ -161,6 +161,7 @@ Miscellaneous Project
 Learning and Resources
 -----------------
 * Matasano Crypto Challenges (@tqbf): http://cryptopals.com/
+* Thomas Ptacek's Cryptographic "Right Answers": https://gist.github.com/tqbf/be58d2d39690c3b366ad
 * Underhanded Crypto Contest: https://underhandedcrypto.com
 * Modern Crypto mailing lists (@trevp__): https://moderncrypto.org/
 * CryptoBib bibliography (@daeinar): http://cryptobib.di.ens.fr/init/default/index
