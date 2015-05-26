@@ -6,13 +6,28 @@ This document originated with an informal survey of Twitter and several mailing 
 
 End User Tool Summary
 ---------------------
-This is a quick summary of tools that are generally recommended for end users. See the [Encryption Works](https://pressfreedomfoundation.org/encryption-works) guide for more information.
+This is a quick summary of tools that are generally recommended for end users. See the [EFF's Surveillance Self Defense guides](https://ssd.eff.org/en) or  [Press Freedom Foundation's Encryption Works](https://freedom.press/encryption-works) guide for more information.
 
-* [GPG](https://www.gnupg.org/): Email encryption
-* [TextSecure](https://github.com/whispersystems/textsecure/): Encrypted SMS Messaging
-* [RedPhone](https://github.com/whispersystems/redphone/): Encrypted voice calls
-* [OTR](https://otr.cypherpunks.ca/): Encrypted instant messaging
-* [Tor](https://www.torproject.org/): Protect from network surveillance
+* [GPG](https://www.gnupg.org/): Email encryption. 
+   * [EFF PGP Intro](https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp)
+   * [Windows PGP Installation](https://ssd.eff.org/en/module/how-use-pgp-windows-pc)
+   * [Mac PGP Installation](https://ssd.eff.org/en/module/how-use-pgp-mac-os-x)
+   * [Linux PGP Installation](https://ssd.eff.org/en/module/how-use-pgp-linux)
+* [TextSecure](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en): Encrypted SMS Messaging
+   * [TextSecure Source](https://github.com/whispersystems/textsecure/)
+   * [EFF TextSecure Guide](https://ssd.eff.org/en/module/how-use-textsecure-android)
+* [Signal](https://itunes.apple.com/app/id874139669): Encrypted voice calls for iOS
+   * [Signal Source](https://github.com/WhisperSystems/Signal-iOS)
+   * [EFF Signal Guide](https://ssd.eff.org/en/module/how-use-signal-%E2%80%93-private-messenger)
+* [RedPhone](https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone/): Encrypted voice calls for Android
+   * [RedPhone Source](https://github.com/whispersystems/redphone) 
+   * [EFF RedPhone Guide](https://ssd.eff.org/en/module/how-use-textsecure-android)
+* [OTR](https://otr.cypherpunks.ca/): Encrypted instant messaging. 
+   * [Windows OTR Installation](https://ssd.eff.org/en/module/how-use-otr-windows)
+   * [Mac OS X OTR Installation](https://ssd.eff.org/en/module/how-use-otr-mac)
+* [Tor](https://www.torproject.org/): Protect from network surveillance 
+   * [Windows Tor Installation](https://ssd.eff.org/en/module/how-use-tor-windows)
+   * [Mac OS X Tor Installation](https://ssd.eff.org/en/module/how-use-tor-mac-os-x)
 
 The People’s Choice
 -------------------
