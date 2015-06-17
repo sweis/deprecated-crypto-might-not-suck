@@ -43,7 +43,7 @@ The People’s Choice
     * Private messaging in the pipeline
     * https://github.com/WhisperSystems/Signal-iOS
 
-Honorable Mention
+Honorable Mentions
 -----------------
 * ☢ Networking and Crypto Library (NaCl): http://nacl.cr.yp.to/
     * Easy to use, high speed XSalsa20, Poly1305, Curve25519, etc
@@ -147,6 +147,7 @@ Community Efforts
 
 Experimental Toolkits
 ---------------------
+* ☢ Advanced Crypto Software Collection: http://hms.isi.jhu.edu/acsc/
 * ☢ Relic Toolkit: https://code.google.com/p/relic-toolkit/
     * Bilinear maps, pairing-based crypto, ID-based crypto
     * Implemented in C
@@ -155,6 +156,9 @@ Experimental Toolkits
     * Tool for rapid cryptographic prototyping
     * Bilinear maps, multiparty protocol engine, non-interactive ZK
     * Python with native C modules
+    * JHU ISI: J. Ayo Akinyele (@ja_akinyele), et al.
+* ☢ AutoTools: https://github.com/JHUISI/auto-tools
+    * Python tools for transforming cryptographic primitives in different and interesting ways
     * JHU ISI: J. Ayo Akinyele (@ja_akinyele), et al.
 
 Miscellaneous Project
