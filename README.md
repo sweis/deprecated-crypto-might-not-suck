@@ -161,6 +161,17 @@ Experimental Toolkits
     * Python tools for transforming cryptographic primitives in different and interesting ways
     * JHU ISI: J. Ayo Akinyele (@ja_akinyele), et al.
 
+Certificate and Key Management Tools
+--------------------
+* ☢ Let's Encrypt: https://letsencrypt.org/
+    * Free, automated, and open certificate authority
+* ☢ CFSSL: https://github.com/cloudflare/cfssl 
+    * Command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates
+* ☢ Red October: https://github.com/cloudflare/redoctober
+    * Encryption and decryption server enforcing a two-person rule
+* ☢ KeyWhiz: https://github.com/square/keywhiz
+    * A system for distributing and managing secrets
+
 Miscellaneous Project
 ---------------------
 * ☢ Cryptol: http://cryptol.net/
@@ -176,6 +187,7 @@ Miscellaneous Project
 * ☢ libmacaroons: https://github.com/rescrv/libmacaroons
     * Decentralized authentication for distributed systems
     * Paper: Chalmers/Brown/Google; Code: Robert Escriva (@rescrv)
+
 
 Learning and Resources
 -----------------
