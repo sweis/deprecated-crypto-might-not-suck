@@ -162,15 +162,22 @@ Experimental Toolkits
     * JHU ISI: J. Ayo Akinyele (@ja_akinyele), et al.
 
 Certificate and Key Management Tools
---------------------
-* ☢ Let's Encrypt: https://letsencrypt.org/
-    * Free, automated, and open certificate authority
+------------------------------------
+* ☢ Let's Encrypt: Open source certificate authority & free service
+    * Available as a service (Fall 2015): https://letsencrypt.org/
+    * Go source code: https://github.com/letsencrypt/letsencrypt
 * ☢ CFSSL: https://github.com/cloudflare/cfssl 
     * Command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates
+    * Implemented in Go
 * ☢ Red October: https://github.com/cloudflare/redoctober
     * Encryption and decryption server enforcing a two-person rule
+    * Implemented in Go
 * ☢ KeyWhiz: https://github.com/square/keywhiz
     * A system for distributing and managing secrets
+    * Implemented in Java
+* ☢ Vault: https://github.com/hashicorp/vault
+    * A tool for managing secrets
+    * Implemented in Go
 
 Miscellaneous Project
 ---------------------
