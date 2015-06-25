@@ -204,3 +204,5 @@ Learning and Resources
 * Modern Crypto mailing lists (@trevp__): https://moderncrypto.org/
 * CryptoBib bibliography (@daeinar): http://cryptobib.di.ens.fr/init/default/index
 * 52 Things People Should Know To Do Cryptography: http://www.cs.bris.ac.uk/Research/CryptographySecurity/knowledge.html
+* Crypto101 Introductory course: https://www.crypto101.io/
+* Dan Boneh's Coursera Cryptography course: https://www.coursera.org/course/crypto
