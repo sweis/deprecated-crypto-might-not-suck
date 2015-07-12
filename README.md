@@ -157,9 +157,6 @@ Experimental Toolkits
     * Bilinear maps, multiparty protocol engine, non-interactive ZK
     * Python with native C modules
     * JHU ISI: J. Ayo Akinyele (@ja_akinyele), et al.
-* ☢ AutoTools: https://github.com/JHUISI/auto-tools
-    * Python tools for transforming cryptographic primitives in different and interesting ways
-    * JHU ISI: J. Ayo Akinyele (@ja_akinyele), et al.
 
 Certificate and Key Management Tools
 ------------------------------------
@@ -179,11 +176,20 @@ Certificate and Key Management Tools
     * A tool for managing secrets
     * Implemented in Go
 
-Miscellaneous Project
----------------------
+Verification & Automation Tools
+-------------------------------
 * ☢ Cryptol: http://cryptol.net/
     * Domain-specific language for specifying crypto algorithms
     * Galois Inc. & Adam C. Foltzer (@acfoltzer)
+    * Works with Software Analaysis Workbench (SAW): https://galois.com/project/software-analysis-workbench/
+* ☢ AutoTools: https://github.com/JHUISI/auto-tools
+    * Python tools for transforming cryptographic primitives in different and interesting ways
+    * JHU ISI: J. Ayo Akinyele (@ja_akinyele), et al.
+* EasyCrypto: https://www.easycrypt.info/trac/
+    * Computer-Aided Cryptographic Proofs
+  
+Miscellaneous Project
+---------------------
 * ☢ spiped: http://www.tarsnap.com/spiped.html
     * Secure pipe daemon
     * Similar to ‘ssh -L’ but requires pre-established secret
@@ -194,7 +200,6 @@ Miscellaneous Project
 * ☢ libmacaroons: https://github.com/rescrv/libmacaroons
     * Decentralized authentication for distributed systems
     * Paper: Chalmers/Brown/Google; Code: Robert Escriva (@rescrv)
-
 
 Learning and Resources
 -----------------
