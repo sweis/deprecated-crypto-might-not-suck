@@ -211,3 +211,4 @@ Learning and Resources
 * 52 Things People Should Know To Do Cryptography: http://www.cs.bris.ac.uk/Research/CryptographySecurity/knowledge.html
 * Crypto101 Introductory course: https://www.crypto101.io/
 * Dan Boneh's Coursera Cryptography course: https://www.coursera.org/course/crypto
+* Dan Boneh & Victor Shoup's "A Graduate Course in Applied Cryptography": https://crypto.stanford.edu/~dabo/cryptobook/draft_0_2.pdf
