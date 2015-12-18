@@ -29,7 +29,7 @@ The People’s Choice
     * Moxie Marlinspike (@moxie) & open source community
 * Signal: Encrypted messaging & phone calls for iPhone and Android
     * Calls: ZRTP for key agreement, SRTP for call encryption
-    * Messaging: OTP-like forward security & Axolotl key racheting by @trevp__
+    * Messaging: OTR-like forward security & Axolotl key ratcheting by @trevp__
     * https://github.com/WhisperSystems?utf8=%E2%9C%93&query=Signal
 
 Honorable Mentions
