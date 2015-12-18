@@ -13,15 +13,9 @@ This is a quick summary of tools that are generally recommended for end users. S
    * [Windows PGP Installation](https://ssd.eff.org/en/module/how-use-pgp-windows-pc)
    * [Mac PGP Installation](https://ssd.eff.org/en/module/how-use-pgp-mac-os-x)
    * [Linux PGP Installation](https://ssd.eff.org/en/module/how-use-pgp-linux)
-* [TextSecure](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en): Encrypted SMS Messaging
-   * [TextSecure Source](https://github.com/whispersystems/textsecure/)
-   * [EFF TextSecure Guide](https://ssd.eff.org/en/module/how-use-textsecure-android)
-* [Signal](https://itunes.apple.com/app/id874139669): Encrypted voice calls for iOS
-   * [Signal Source](https://github.com/WhisperSystems/Signal-iOS)
-   * [EFF Signal Guide](https://ssd.eff.org/en/module/how-use-signal-%E2%80%93-private-messenger)
-* [RedPhone](https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone/): Encrypted voice calls for Android
-   * [RedPhone Source](https://github.com/whispersystems/redphone) 
-   * [EFF RedPhone Guide](https://ssd.eff.org/en/module/how-use-textsecure-android)
+* [Signal](https://whispersystems.org/): Encrypted messaging & voice calls
+   * [Signal Source](https://github.com/WhisperSystems?utf8=%E2%9C%93&query=Signal)
+   * EFF Signal Guide for [Android](https://ssd.eff.org/en/module/how-use-signal-android) or [iOS](https://ssd.eff.org/en/module/how-use-signal-ios) 
 * [OTR](https://otr.cypherpunks.ca/): Encrypted instant messaging. 
    * [Windows OTR Installation](https://ssd.eff.org/en/module/how-use-otr-windows)
    * [Mac OS X OTR Installation](https://ssd.eff.org/en/module/how-use-otr-mac)
@@ -33,15 +27,10 @@ The People’s Choice
 -------------------
 * Open Whisper Systems: https://whispersystems.org/
     * Moxie Marlinspike (@moxie) & open source community
-* TextSecure: Encrypt your texts and chat messages for Android
-    * OTP-like forward security & Axolotl key racheting by @trevp__
-    * https://github.com/whispersystems/textsecure/
-* RedPhone: Secure calling app for Android
-    * ZRTP for key agreement, SRTP for call encryption
-    * https://github.com/whispersystems/redphone/
-* Signal: Encrypted phone calls for iPhone
-    * Private messaging in the pipeline
-    * https://github.com/WhisperSystems/Signal-iOS
+* Signal: Encrypted messaging & phone calls for iPhone and Android
+    * Calls: ZRTP for key agreement, SRTP for call encryption
+    * Messaging: OTP-like forward security & Axolotl key racheting by @trevp__
+    * https://github.com/WhisperSystems?utf8=%E2%9C%93&query=Signal
 
 Honorable Mentions
 -----------------
