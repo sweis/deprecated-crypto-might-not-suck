@@ -137,7 +137,7 @@ Community Efforts
 Experimental Toolkits
 ---------------------
 * ☢ Advanced Crypto Software Collection: http://hms.isi.jhu.edu/acsc/
-* ☢ Relic Toolkit: https://code.google.com/p/relic-toolkit/
+* ☢ Relic Toolkit: https://github.com/relic-toolkit/relic
     * Bilinear maps, pairing-based crypto, ID-based crypto
     * Implemented in C
     * Diego Aranha (@dfaranha) and C.P. L. Gouvêa
@@ -174,8 +174,11 @@ Verification & Automation Tools
 * ☢ AutoTools: https://github.com/JHUISI/auto-tools
     * Python tools for transforming cryptographic primitives in different and interesting ways
     * JHU ISI: J. Ayo Akinyele (@ja_akinyele), et al.
-* EasyCrypto: https://www.easycrypt.info/trac/
+* ☢ EasyCrypto: https://www.easycrypt.info/trac/
     * Computer-Aided Cryptographic Proofs
+* ☢ Tamarin Security Protocol Verification: https://github.com/tamarin-prover/tamarin-prover
+* ☢ gfverif: http://gfverif.cryptojedi.org/
+    * Fast and easy verification of finite-field arithmetic
   
 Miscellaneous Project
 ---------------------
