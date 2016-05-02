@@ -16,9 +16,6 @@ This is a quick summary of tools that are generally recommended for end users. S
 * [Signal](https://whispersystems.org/): Encrypted messaging & voice calls
    * [Signal Source](https://github.com/WhisperSystems?utf8=%E2%9C%93&query=Signal)
    * EFF Signal Guide for [Android](https://ssd.eff.org/en/module/how-use-signal-android) or [iOS](https://ssd.eff.org/en/module/how-use-signal-ios) 
-* [OTR](https://otr.cypherpunks.ca/): Encrypted instant messaging. 
-   * [Windows OTR Installation](https://ssd.eff.org/en/module/how-use-otr-windows)
-   * [Mac OS X OTR Installation](https://ssd.eff.org/en/module/how-use-otr-mac)
 * [Tor](https://www.torproject.org/): Protect from network surveillance 
    * [Windows Tor Installation](https://ssd.eff.org/en/module/how-use-tor-windows)
    * [Mac OS X Tor Installation](https://ssd.eff.org/en/module/how-use-tor-mac-os-x)
@@ -34,16 +31,17 @@ The People’s Choice
 
 Honorable Mentions
 -----------------
-* ☢ Networking and Crypto Library (NaCl): http://nacl.cr.yp.to/
+* Networking and Crypto Library (NaCl): http://nacl.cr.yp.to/
     * Easy to use, high speed XSalsa20, Poly1305, Curve25519, etc
     * No dynamic memory allocation or data-dependent branches
-    * DJ Bernstein (@hashbreaker), Tanja Lange (@hyperelliptic),  Peter Schwabe (@cryptojedi)
-* ☢ libsodium: https://github.com/jedisct1/libsodium
+    * DJ Bernstein (@hashbreaker), Tanja Lange (@hyperelliptic), Peter Schwabe (@cryptojedi)
+* libsodium: https://github.com/jedisct1/libsodium
     * Portable, cross-compatible NaCL
     * OpenDNS & Frank Denis (@jedisct1)
-* ☢ curve25519-donna: https://code.google.com/p/curve25519-donna/
-    * 64-bit implementation of just curve25519
-    * Adam Langley (@agl__)
+* WhatsApp:
+    * Supports [end-to-end encryption](https://blog.whatsapp.com/10000618/end-to-end-encryption) on all new clients
+    * Design Doc: https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf
+    * Closed source
 
 The Old Standbys
 ----------------
@@ -53,11 +51,6 @@ The Old Standbys
     * Enigmail for Thunderbird: https://www.enigmail.net/home/index.php
 * OpenSSH: http://www.openssh.com/
 * Tor: https://www.torproject.org/
-* Off-the-Record (OTR): https://otr.cypherpunks.ca
-    * Ian Goldberg, David Goulet (@ev0ke42), Jake Applebaum (@ioerror), & Jurre van Bergen (@DrWhax)
-    * Pidgin's Off-the-Record plugin: https://otr.cypherpunks.ca/index.php#downloads
-    * Adium has native integration: https://adium.im/
-    * ☢ Invisible.im: New project XMPP/OTR using Tor Hidden services
 
 The SSL Libraries
 -----------------
@@ -77,16 +70,6 @@ JavaScript Crypto Libraries
     * 800 MB of test vectors for 9000 lines of code
     * Non-commercial and research license only
 
-Browser Crypto
---------------
-* ☢ End-to-End: https://code.google.com/p/end-to-end/
-    * OpenPGP in a Chrome Extension
-    * Google, Drew Hintz (@DrewHintz) & Eduardo Vela (@sirdarckcat)
-* ☢ WebCrypto: http://www.w3.org/TR/WebCryptoAPI/
-    * Native crypto support in the browser
-    * Used for PKI by PKIjs.org.
-    * Ryan Sleevi (@sleevi_) / Google & Mark Watson / Netflix
-
 Online Storage
 --------------
 * Tahoe-LAFS: https://tahoe-lafs.org/
@@ -103,23 +86,18 @@ Libraries and Frameworks
 * Crypto++: http://www.cryptopp.com/
     * Long-lived C++ crypto library by Wei Dai
 * go.crypto: http://golang.org/pkg/crypto/
-* Keyczar: http://keyczar.org
-    * Simple crypto library wrapper for Java, Python, and C++
-    * Google, Ben Laurie (@benl), Steve Weis (@sweis), many others
 * ☢ Cryptography.io: https://cryptography.io/
     * Attempt to build a good Python crypto library
     * Paul Kehrer (@reaperhulk) & Alex Gaynor (@alex_gaynor)
 * ☢ ECClib: http://research.microsoft.com/en-us/projects/nums/
     * Microsoft Research & Patrick Longa (@PatrickLonga)
 
-Messaging and Publishing
-------------------------
-* ☢ Pond: https://pond.imperialviolet.org/ 
-    * Forward secure, asynchronous messaging
-    * Adam Langley (@agl__)
-* ☢ Cryptosphere: http://cryptosphere.org/
-    * Peer-to-peer content publishing
-    * Tony Arcieri (@bascule)
+Post Quantum Libraries
+-----------------
+* ☢☢ New Hope: https://github.com/Yawning/newhope
+  * Post-quantum key exchange by Peter Schwabe (@cryptojedi) et al.
+  * Paper: https://cryptojedi.org/papers/newhope-20160328.pdf
+* ☢☢ Microsoft Supersingular Isogeny Diffie Hellman Library (SIDH): http://research.microsoft.com/en-us/projects/sidh/
 
 Community Efforts
 -----------------
@@ -167,7 +145,7 @@ Certificate and Key Management Tools
 
 Verification & Automation Tools
 -------------------------------
-* ☢ Cryptol: http://cryptol.net/
+* Cryptol: http://cryptol.net/
     * Domain-specific language for specifying crypto algorithms
     * Galois Inc. & Adam C. Foltzer (@acfoltzer)
     * Works with Software Analaysis Workbench (SAW): https://galois.com/project/software-analysis-workbench/
@@ -176,6 +154,8 @@ Verification & Automation Tools
     * JHU ISI: J. Ayo Akinyele (@ja_akinyele), et al.
 * ☢ EasyCrypto: https://www.easycrypt.info/trac/
     * Computer-Aided Cryptographic Proofs
+* ☢ CertiCrypt: http://certicrypt.gforge.inria.fr/
+    * Computer-Aided Cryptographic Proofs in Coq
 * ☢ Tamarin Security Protocol Verification: https://github.com/tamarin-prover/tamarin-prover
 * ☢ gfverif: http://gfverif.cryptojedi.org/
     * Fast and easy verification of finite-field arithmetic
@@ -192,6 +172,10 @@ Miscellaneous Project
 * ☢ libmacaroons: https://github.com/rescrv/libmacaroons
     * Decentralized authentication for distributed systems
     * Paper: Chalmers/Brown/Google; Code: Robert Escriva (@rescrv)
+* magic-wormhole: https://github.com/warner/magic-wormhole
+    * "Get things from one computer to another, safely."
+    * Built on NaCL
+    * Brian Warner (@lotharrr)
 
 Learning and Resources
 -----------------
@@ -204,3 +188,29 @@ Learning and Resources
 * Crypto101 Introductory course: https://www.crypto101.io/
 * Dan Boneh's Coursera Cryptography course: https://www.coursera.org/course/crypto
 * Dan Boneh & Victor Shoup's "A Graduate Course in Applied Cryptography": https://crypto.stanford.edu/~dabo/cryptobook/draft_0_2.pdf
+
+Abandoned / Retired / TBD
+-----------------
+These are left here for posterity...
+
+* [Off-the-Record (OTR)](https://otr.cypherpunks.ca/): Encrypted instant messaging. 
+   * Ian Goldberg, David Goulet (@ev0ke42), Jake Applebaum (@ioerror), & Jurre van Bergen (@DrWhax)
+   * [Windows OTR Installation](https://ssd.eff.org/en/module/how-use-otr-windows)
+   * [Mac OS X OTR Installation](https://ssd.eff.org/en/module/how-use-otr-mac)
+   * *Signal is probably a better option now*
+* Keyczar: http://keyczar.org
+    * Simple crypto library wrapper for Java, Python, and C++
+    * Google, Ben Laurie (@benl), Steve Weis (@sweis), many others
+    * *Keyczar has not been updated recently and is long in the tooth*
+* ☢ End-to-End: https://code.google.com/p/end-to-end/
+    * OpenPGP in a Chrome Extension
+    * Google, Drew Hintz (@DrewHintz) & Eduardo Vela (@sirdarckcat)
+    * *Still not released*
+* ☢ Pond: https://pond.imperialviolet.org/
+    * Forward secure, asynchronous messaging
+    * Adam Langley (@agl__)
+    * *No recent development*
+* ☢ Cryptosphere: http://cryptosphere.org/
+    * Peer-to-peer content publishing
+    * Tony Arcieri (@bascule)
+    * *No recent development*
