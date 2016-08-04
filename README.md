@@ -13,8 +13,7 @@ This is a quick summary of tools that are generally recommended for end users. S
    * [Windows PGP Installation](https://ssd.eff.org/en/module/how-use-pgp-windows-pc)
    * [Mac PGP Installation](https://ssd.eff.org/en/module/how-use-pgp-mac-os-x)
    * [Linux PGP Installation](https://ssd.eff.org/en/module/how-use-pgp-linux)
-      * [RiseUp: OpenPGP Best Practices](https://help.riseup.net/en/gpg-best-practices)
-        * [Improved RiseUp GPG configuration](https://github.com/azet/dotfiles/tree/master/.gnupg)
+   * [RiseUp: OpenPGP Best Practices](https://help.riseup.net/en/gpg-best-practices)
 * [Signal](https://whispersystems.org/): Encrypted messaging & voice calls
    * [Signal Source](https://github.com/WhisperSystems?utf8=%E2%9C%93&query=Signal)
    * EFF Signal Guide for [Android](https://ssd.eff.org/en/module/how-use-signal-android) or [iOS](https://ssd.eff.org/en/module/how-use-signal-ios) 
