@@ -183,10 +183,11 @@ Learning and Resources
 * Thomas Ptacek's Cryptographic "Right Answers": https://gist.github.com/tqbf/be58d2d39690c3b366ad
 * Underhanded Crypto Contest: https://underhandedcrypto.com
 * Modern Crypto mailing lists (@trevp__): https://moderncrypto.org/
-* CryptoBib bibliography (@daeinar): http://cryptobib.di.ens.fr/init/default/index
+* CryptoBib bibliography (@daeinar): https://github.com/cryptobib
 * 52 Things People Should Know To Do Cryptography: http://www.cs.bris.ac.uk/Research/CryptographySecurity/knowledge.html
 * Crypto101 Introductory course: https://www.crypto101.io/
 * Dan Boneh's Coursera Cryptography course: https://www.coursera.org/course/crypto
+* Dan Boneh's Coursera Cryptography II course: Coming in 2024.
 * Dan Boneh & Victor Shoup's "A Graduate Course in Applied Cryptography": https://crypto.stanford.edu/~dabo/cryptobook/draft_0_2.pdf
 
 Abandoned / Retired / TBD
