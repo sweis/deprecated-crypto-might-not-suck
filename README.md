@@ -91,6 +91,8 @@ Libraries and Frameworks
     * Paul Kehrer (@reaperhulk) & Alex Gaynor (@alex_gaynor)
 * ☢ ECClib: http://research.microsoft.com/en-us/projects/nums/
     * Microsoft Research & Patrick Longa (@PatrickLonga)
+* libtomcrypt: https://github.com/libtom/libtomcrypt
+    * A fairly comprehensive, modular and portable cryptographic toolkit
 
 Post Quantum Libraries
 -----------------
@@ -124,6 +126,8 @@ Experimental Toolkits
     * Bilinear maps, multiparty protocol engine, non-interactive ZK
     * Python with native C modules
     * JHU ISI: J. Ayo Akinyele (@ja_akinyele), et al.
+* bloc: https://github.com/kmarquet/bloc
+    * C implemetation of some block ciphers for [BLOC](http://bloc.project.citi-lab.fr/library.html) project.
 
 Certificate and Key Management Tools
 ------------------------------------
@@ -189,6 +193,7 @@ Learning and Resources
 * Dan Boneh's Coursera Cryptography course: https://www.coursera.org/course/crypto
 * Dan Boneh's Coursera Cryptography II course: Coming in 2024.
 * Dan Boneh & Victor Shoup's "A Graduate Course in Applied Cryptography": https://crypto.stanford.edu/~dabo/cryptobook/draft_0_2.pdf
+* Lars R. Knudsen & Matthew J.B. Robshaw's "The Block Cipher Companion": http://antoanthongtin.vn/Portals/0/UploadImages/kiennt2/Sach/Sach-CSDL4/The_Block_Cipher_Companion.pdf
 
 Maybe Sucky Secret Managers
 -----------------
