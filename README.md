@@ -128,7 +128,7 @@ Experimental Toolkits
 Certificate and Key Management Tools
 ------------------------------------
 * ☢ Let's Encrypt: Open source certificate authority & free service
-    * Available as a service (Fall 2015): https://letsencrypt.org/
+    * Available as a service: https://letsencrypt.org/
     * Go source code: https://github.com/letsencrypt/letsencrypt
 * ☢ CFSSL: https://github.com/cloudflare/cfssl 
     * Command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates
@@ -142,9 +142,6 @@ Certificate and Key Management Tools
 * ☢ Vault: https://github.com/hashicorp/vault
     * A tool for managing secrets
     * Implemented in Go
-* ☢ Knox: https://github.com/pinterest/knox 
-* ☢ Confidant: https://github.com/lyft/confidant 
-* ☢ Secretary: https://github.com/meltwater/secretary
 
 Verification & Automation Tools
 -------------------------------
@@ -175,7 +172,7 @@ Miscellaneous Project
 * ☢ libmacaroons: https://github.com/rescrv/libmacaroons
     * Decentralized authentication for distributed systems
     * Paper: Chalmers/Brown/Google; Code: Robert Escriva (@rescrv)
-* magic-wormhole: https://github.com/warner/magic-wormhole
+* ☢ magic-wormhole: https://github.com/warner/magic-wormhole
     * "Get things from one computer to another, safely."
     * Built on NaCL
     * Brian Warner (@lotharrr)
@@ -195,7 +192,11 @@ Learning and Resources
 Abandoned / Retired / TBD
 -----------------
 These are left here for posterity...
-
+* There are too many secret managers and I don't know which are any good:
+   * ☢ Knox: https://github.com/pinterest/knox 
+   * ☢ Confidant: https://github.com/lyft/confidant 
+   * ☢ Secretary: https://github.com/meltwater/secretary
+   * ☢ Sops: https://github.com/mozilla/sops
 * [Off-the-Record (OTR)](https://otr.cypherpunks.ca/): Encrypted instant messaging. 
    * Ian Goldberg, David Goulet (@ev0ke42), Jake Applebaum (@ioerror), & Jurre van Bergen (@DrWhax)
    * [Windows OTR Installation](https://ssd.eff.org/en/module/how-use-otr-windows)
