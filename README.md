@@ -190,14 +190,20 @@ Learning and Resources
 * Dan Boneh's Coursera Cryptography II course: Coming in 2024.
 * Dan Boneh & Victor Shoup's "A Graduate Course in Applied Cryptography": https://crypto.stanford.edu/~dabo/cryptobook/draft_0_2.pdf
 
+Maybe Sucky Secret Managers
+-----------------
+There are a ton of secret key value managers and I have no idea of they are any good. I'm including them here for future reference.
+* ☢ Knox: https://github.com/pinterest/knox 
+* ☢ Confidant: https://github.com/lyft/confidant 
+* ☢ Secretary: https://github.com/meltwater/secretary
+* ☢ Sops: https://github.com/mozilla/sops
+* ☢ Summon: https://github.com/conjurinc/summon
+* ☢ Biscuit: https://github.com/dcoker/biscuit 
+
 Abandoned / Retired / TBD
 -----------------
 These are left here for posterity...
-* There are too many secret managers and I don't know which are any good:
-   * ☢ Knox: https://github.com/pinterest/knox 
-   * ☢ Confidant: https://github.com/lyft/confidant 
-   * ☢ Secretary: https://github.com/meltwater/secretary
-   * ☢ Sops: https://github.com/mozilla/sops
+
 * [Off-the-Record (OTR)](https://otr.cypherpunks.ca/): Encrypted instant messaging. 
    * Ian Goldberg, David Goulet (@ev0ke42), Jake Applebaum (@ioerror), & Jurre van Bergen (@DrWhax)
    * [Windows OTR Installation](https://ssd.eff.org/en/module/how-use-otr-windows)
