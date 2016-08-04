@@ -142,6 +142,9 @@ Certificate and Key Management Tools
 * ☢ Vault: https://github.com/hashicorp/vault
     * A tool for managing secrets
     * Implemented in Go
+* ☢ Knox: https://github.com/pinterest/knox 
+* ☢ Confidant: https://github.com/lyft/confidant 
+* ☢ Secretary: https://github.com/meltwater/secretary
 
 Verification & Automation Tools
 -------------------------------
