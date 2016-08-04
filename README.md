@@ -127,12 +127,10 @@ Experimental Toolkits
     * Bilinear maps, multiparty protocol engine, non-interactive ZK
     * Python with native C modules
     * JHU ISI: J. Ayo Akinyele (@ja_akinyele), et al.
-* bloc: https://github.com/kmarquet/bloc
-    * C implemetation of some block ciphers for [BLOC](http://bloc.project.citi-lab.fr/library.html) project.
 
 Certificate and Key Management Tools
 ------------------------------------
-* ☢ Let's Encrypt: Open source certificate authority & free service
+* Let's Encrypt: Open source certificate authority & free service
     * Available as a service: https://letsencrypt.org/
     * Go source code: https://github.com/letsencrypt/letsencrypt
 * ☢ CFSSL: https://github.com/cloudflare/cfssl 
