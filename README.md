@@ -192,7 +192,9 @@ Learning and Resources
 
 Maybe Sucky Secret Managers
 -----------------
-There are a ton of secret key value managers and I have no idea of they are any good. I'm including them here for future reference.
+There are many secret key value managers and I don't know which are any good. Including them here for future reference:
+* ☢ KeyWhiz: https://github.com/square/keywhiz
+* ☢ Vault: https://github.com/hashicorp/vault
 * ☢ Knox: https://github.com/pinterest/knox 
 * ☢ Confidant: https://github.com/lyft/confidant 
 * ☢ Secretary: https://github.com/meltwater/secretary
