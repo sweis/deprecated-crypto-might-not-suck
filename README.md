@@ -10,10 +10,10 @@ This is a quick summary of tools that are generally recommended for end users. S
 
 * [GPG](https://www.gnupg.org/): Email encryption. 
    * [EFF PGP Intro](https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp)
-   * [Windows PGP Installation](https://ssd.eff.org/en/module/how-use-pgp-windows-pc)
+   * [Windows PGP Installation](https://ssd.eff.org/en/module/how-use-pgp-windows)
    * [Mac PGP Installation](https://ssd.eff.org/en/module/how-use-pgp-mac-os-x)
    * [Linux PGP Installation](https://ssd.eff.org/en/module/how-use-pgp-linux)
-   * [RiseUp: OpenPGP Best Practices](https://help.riseup.net/en/gpg-best-practices)
+   * [RiseUp: OpenPGP Best Practices](https://riseup.net/en/gpg-best-practices)
 * [Signal](https://whispersystems.org/): Encrypted messaging & voice calls
    * [Signal Source](https://github.com/WhisperSystems?utf8=%E2%9C%93&query=Signal)
    * EFF Signal Guide for [Android](https://ssd.eff.org/en/module/how-use-signal-android) or [iOS](https://ssd.eff.org/en/module/how-use-signal-ios) 
@@ -48,7 +48,7 @@ The Old Standbys
 ----------------
 * Gnu Privacy Guard (GPG): https://www.gnupg.org/
     * GPGTools for OS X Mail: https://gpgtools.org/
-    * GPG4win for Windows: http://gpg4win.org/
+    * GPG4win for Windows: https://www.gpg4win.org/
     * Enigmail for Thunderbird: https://www.enigmail.net/home/index.php
 * OpenSSH: http://www.openssh.com/
 * Tor: https://www.torproject.org/
@@ -76,7 +76,7 @@ Online Storage
 * Tahoe-LAFS: https://tahoe-lafs.org/
     * Distributed, provider-independent cloud storage
     * Least Authority Systems, Zooko (@zooko), et al.
-* Tarsnap: http://tarsnap.com
+* Tarsnap: http://www.tarsnap.com/
     * Client-side encryption; must build from source
     * Commercial service archives on S3
     * Colin Percival (@cperciva)
@@ -86,11 +86,11 @@ Libraries and Frameworks
 
 * Crypto++: http://www.cryptopp.com/
     * Long-lived C++ crypto library by Wei Dai
-* go.crypto: http://golang.org/pkg/crypto/
+* go.crypto: https://golang.org/pkg/crypto/
 * ☢ Cryptography.io: https://cryptography.io/
     * Attempt to build a good Python crypto library
     * Paul Kehrer (@reaperhulk) & Alex Gaynor (@alex_gaynor)
-* ☢ ECClib: http://research.microsoft.com/en-us/projects/nums/
+* ☢ ECClib: https://www.microsoft.com/en-us/research/project/msr-elliptic-curve-cryptography-library/
     * Microsoft Research & Patrick Longa (@PatrickLonga)
 * libtomcrypt: https://github.com/libtom/libtomcrypt
     * A fairly comprehensive, modular and portable cryptographic toolkit
@@ -100,7 +100,7 @@ Post Quantum Libraries
 * ☢☢ New Hope: https://github.com/Yawning/newhope
   * Post-quantum key exchange by Peter Schwabe (@cryptojedi) et al.
   * Paper: https://cryptojedi.org/papers/newhope-20160328.pdf
-* ☢☢ Microsoft Supersingular Isogeny Diffie Hellman Library (SIDH): http://research.microsoft.com/en-us/projects/sidh/
+* ☢☢ Microsoft Supersingular Isogeny Diffie Hellman Library (SIDH): https://www.microsoft.com/en-us/research/project/sidh-library/
 
 Community Efforts
 -----------------
@@ -132,7 +132,7 @@ Certificate and Key Management Tools
 ------------------------------------
 * Let's Encrypt: Open source certificate authority & free service
     * Available as a service: https://letsencrypt.org/
-    * Go source code: https://github.com/letsencrypt/letsencrypt
+    * Go source code: https://github.com/certbot/certbot
 * ☢ CFSSL: https://github.com/cloudflare/cfssl 
     * Command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates
     * Implemented in Go
@@ -219,7 +219,7 @@ These are left here for posterity...
     * Simple crypto library wrapper for Java, Python, and C++
     * Google, Ben Laurie (@benl), Steve Weis (@sweis), many others
     * *Keyczar has not been updated recently and is long in the tooth*
-* ☢ End-to-End: https://code.google.com/p/end-to-end/
+* ☢ End-to-End: https://github.com/google/end-to-end
     * OpenPGP in a Chrome Extension
     * Google, Drew Hintz (@DrewHintz) & Eduardo Vela (@sirdarckcat)
     * *Still not released*
@@ -227,7 +227,7 @@ These are left here for posterity...
     * Forward secure, asynchronous messaging
     * Adam Langley (@agl__)
     * *No recent development*
-* ☢ Cryptosphere: http://cryptosphere.org/
+* ☢ Cryptosphere: http://cryptosphere.io
     * Peer-to-peer content publishing
     * Tony Arcieri (@bascule)
     * *No recent development*
