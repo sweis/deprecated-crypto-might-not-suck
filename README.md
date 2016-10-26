@@ -43,6 +43,10 @@ Honorable Mentions
     * Supports [end-to-end encryption](https://blog.whatsapp.com/10000618/end-to-end-encryption) on all new clients
     * Design Doc: https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf
     * Closed source
+* Keybase.io: https://keybase.io / https://github.com/keybase
+    * semi-cloudbased GPG-style-framework in javascript
+    * Ability to verify thirdparty Accounts (github, reddit, twitter, ...)
+    * experimental encrypted Filesystem
 
 The Old Standbys
 ----------------
