@@ -39,18 +39,6 @@ Honorable Mentions
 * libsodium: https://github.com/jedisct1/libsodium
     * Portable, cross-compatible NaCL
     * OpenDNS & Frank Denis (@jedisct1)
-* WhatsApp:
-    * Supports [end-to-end encryption](https://blog.whatsapp.com/10000618/end-to-end-encryption) on all new clients
-    * Design Doc: https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf
-    * Closed source
-
-The Old Standbys
-----------------
-* Gnu Privacy Guard (GPG): https://www.gnupg.org/
-    * GPGTools for OS X Mail: https://gpgtools.org/
-    * GPG4win for Windows: https://www.gpg4win.org/
-    * Enigmail for Thunderbird: https://www.enigmail.net/home/index.php
-* OpenSSH: http://www.openssh.com/
 * Tor: https://www.torproject.org/
 
 The SSL Libraries
@@ -59,7 +47,7 @@ The SSL Libraries
 * ☢ LibreSSL: http://www.libressl.org/
     * Hilarious code reviews
     * OpenBSD team and Bob Beck (@bob_beck)
-* ☢ BoringSSL: https://boringssl.googlesource.com/boringssl/
+* BoringSSL: https://boringssl.googlesource.com/boringssl/
     * Google’s OpenSSL fork by Adam Langley (@agl__)
 
 JavaScript Crypto Libraries
@@ -87,6 +75,8 @@ Libraries and Frameworks
 * Crypto++: http://www.cryptopp.com/
     * Long-lived C++ crypto library by Wei Dai
 * go.crypto: https://golang.org/pkg/crypto/
+* Noise Framework: http://noiseprotocol.org/
+    * Framework for building crypto protocols
 * ☢ Cryptography.io: https://cryptography.io/
     * Attempt to build a good Python crypto library
     * Paul Kehrer (@reaperhulk) & Alex Gaynor (@alex_gaynor)
@@ -97,7 +87,7 @@ Libraries and Frameworks
 
 Post Quantum Libraries
 -----------------
-* ☢☢ New Hope: https://github.com/Yawning/newhope
+* ☢ New Hope: https://github.com/Yawning/newhope
   * Post-quantum key exchange by Peter Schwabe (@cryptojedi) et al.
   * Paper: https://cryptojedi.org/papers/newhope-20160328.pdf
 * ☢☢ Microsoft Supersingular Isogeny Diffie Hellman Library (SIDH): https://www.microsoft.com/en-us/research/project/sidh-library/
@@ -179,6 +169,10 @@ Miscellaneous Project
     * "Get things from one computer to another, safely."
     * Built on NaCL
     * Brian Warner (@lotharrr)
+* ☢ Wireguard: https://www.wireguard.io
+    * Modern VPN tunnel
+    * Built on Noise, Curve25519, etc.
+    * Jason Donenfeld (@zx2c4)
 
 Learning and Resources
 -----------------
@@ -205,29 +199,3 @@ There are many secret key value managers and I don't know which are any good. In
 * ☢ Sops: https://github.com/mozilla/sops
 * ☢ Summon: https://github.com/conjurinc/summon
 * ☢ Biscuit: https://github.com/dcoker/biscuit 
-
-Abandoned / Retired / TBD
------------------
-These are left here for posterity...
-
-* [Off-the-Record (OTR)](https://otr.cypherpunks.ca/): Encrypted instant messaging. 
-   * Ian Goldberg, David Goulet (@ev0ke42), Jake Applebaum (@ioerror), & Jurre van Bergen (@DrWhax)
-   * [Windows OTR Installation](https://ssd.eff.org/en/module/how-use-otr-windows)
-   * [Mac OS X OTR Installation](https://ssd.eff.org/en/module/how-use-otr-mac)
-   * *Signal is probably a better option now*
-* Keyczar: http://keyczar.org
-    * Simple crypto library wrapper for Java, Python, and C++
-    * Google, Ben Laurie (@benl), Steve Weis (@sweis), many others
-    * *Keyczar has not been updated recently and is long in the tooth*
-* ☢ End-to-End: https://github.com/google/end-to-end
-    * OpenPGP in a Chrome Extension
-    * Google, Drew Hintz (@DrewHintz) & Eduardo Vela (@sirdarckcat)
-    * *Still not released*
-* ☢ Pond: https://pond.imperialviolet.org/
-    * Forward secure, asynchronous messaging
-    * Adam Langley (@agl__)
-    * *No recent development*
-* ☢ Cryptosphere: http://cryptosphere.io
-    * Peer-to-peer content publishing
-    * Tony Arcieri (@bascule)
-    * *No recent development*
