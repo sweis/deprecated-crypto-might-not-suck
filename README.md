@@ -58,6 +58,9 @@ JavaScript Crypto Libraries
 * ☢ Microsoft JS Crypto Library
     * 800 MB of test vectors for 9000 lines of code
     * Non-commercial and research license only
+* libsodium.js: https://github.com/jedisct1/libsodium.js
+    * libsodium crypto library compiled to pure JavaScript using Emscripten.
+    * Automatically generated wrappers to make it easy to use in web applications.
 
 Online Storage
 --------------
