@@ -47,7 +47,7 @@ The SSL Libraries
 * BoringSSL: https://boringssl.googlesource.com/boringssl/
     * Google’s OpenSSL fork by Adam Langley (@agl__)
 * ☢ LibreSSL: http://www.libressl.org/
-    * OpenBSD team and Bob Beck (@bob_beck)
+    * OpenBSD team and Bob Beck (@bob_beck)
 * ☢ BearSSL: https://bearssl.org/
     * Thomas Pornin (@bearsslnews)
 
