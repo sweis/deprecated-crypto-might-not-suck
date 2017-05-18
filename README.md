@@ -44,11 +44,12 @@ Honorable Mentions
 The SSL Libraries
 -----------------
 * OpenSSL: Seriously. https://www.openssl.org/
-* ☢ LibreSSL: http://www.libressl.org/
-    * Hilarious code reviews
-    * OpenBSD team and Bob Beck (@bob_beck)
 * BoringSSL: https://boringssl.googlesource.com/boringssl/
     * Google’s OpenSSL fork by Adam Langley (@agl__)
+* ☢ LibreSSL: http://www.libressl.org/
+    * OpenBSD team and Bob Beck (@bob_beck)
+* ☢ BearSSL: https://bearssl.org/
+    * Thomas Pornin (@bearsslnews)
 
 JavaScript Crypto Libraries
 ---------------------------
@@ -58,7 +59,7 @@ JavaScript Crypto Libraries
 * ☢ Microsoft JS Crypto Library
     * 800 MB of test vectors for 9000 lines of code
     * Non-commercial and research license only
-* libsodium.js: https://github.com/jedisct1/libsodium.js
+* ☢ libsodium.js: https://github.com/jedisct1/libsodium.js
     * libsodium crypto library compiled to pure JavaScript using Emscripten.
     * Automatically generated wrappers to make it easy to use in web applications.
 
@@ -187,13 +188,15 @@ Learning and Resources
 * 52 Things People Should Know To Do Cryptography: http://www.cs.bris.ac.uk/Research/CryptographySecurity/knowledge.html
 * Crypto101 Introductory course: https://www.crypto101.io/
 * Dan Boneh's Coursera Cryptography course: https://www.coursera.org/course/crypto
-* Dan Boneh's Coursera Cryptography II course: Coming in 2024.
+* Dan Boneh's Coursera Cryptography II course: Coming any day now. Really. I promise.
 * Dan Boneh & Victor Shoup's "A Graduate Course in Applied Cryptography": https://crypto.stanford.edu/~dabo/cryptobook/draft_0_3.pdf
+* Christof Paar's Intro to Cryptography course: https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos
 * Lars R. Knudsen & Matthew J.B. Robshaw's "The Block Cipher Companion": http://antoanthongtin.vn/Portals/0/UploadImages/kiennt2/Sach/Sach-CSDL4/The_Block_Cipher_Companion.pdf
 
 Maybe Sucky Secret Managers
 -----------------
 There are many secret key value managers and I don't know which are any good. Including them here for future reference:
+* ☢ pass: Unix password manager https://www.passwordstore.org/
 * ☢ KeyWhiz: https://github.com/square/keywhiz
 * ☢ Vault: https://github.com/hashicorp/vault
 * ☢ Knox: https://github.com/pinterest/knox 
