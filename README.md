@@ -103,7 +103,8 @@ Community Efforts
 * Better Crypto: https://bettercrypto.org/
     * Community-generated guidelines for applied crypto hardening
 * Crypto Coding Standard: https://cryptocoding.net/
-* ☢ Password Hashing Competition: https://password-hashing.net/
+* CAESAR Authenticated Encryption Competition: https://competitions.cr.yp.to/caesar.html
+* Password Hashing Competition: https://password-hashing.net/
     * Community-driven contest for password hashing replacement
 * ☢ Safe Curves: http://safecurves.cr.yp.to/
     * Criteria to ensure elliptic-curve crypto security
