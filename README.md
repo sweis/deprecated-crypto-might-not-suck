@@ -185,7 +185,7 @@ Learning and Resources
 * Crypto101 Introductory course: https://www.crypto101.io/
 * Dan Boneh's Coursera Cryptography course: https://www.coursera.org/course/crypto
 * Dan Boneh's Coursera Cryptography II course: Coming in 2024.
-* Dan Boneh & Victor Shoup's "A Graduate Course in Applied Cryptography": https://crypto.stanford.edu/~dabo/cryptobook/draft_0_2.pdf
+* Dan Boneh & Victor Shoup's "A Graduate Course in Applied Cryptography": https://crypto.stanford.edu/~dabo/cryptobook/draft_0_3.pdf
 * Lars R. Knudsen & Matthew J.B. Robshaw's "The Block Cipher Companion": http://antoanthongtin.vn/Portals/0/UploadImages/kiennt2/Sach/Sach-CSDL4/The_Block_Cipher_Companion.pdf
 
 Maybe Sucky Secret Managers
