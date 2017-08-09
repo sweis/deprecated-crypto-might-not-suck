@@ -55,8 +55,8 @@ JavaScript Crypto Libraries
 ---------------------------
 * Stanford JS Crypto Lib (SJCL): https://crypto.stanford.edu/sjcl/
     * Emily Stark, Mike Hamburg, & Dan Boneh
-    * Used in several products, e.g. Crypton.io
-* ☢ Microsoft JS Crypto Library
+    * Used in several products
+* ☢ Microsoft JS Crypto Library: https://www.microsoft.com/en-us/download/details.aspx?id=52439
     * 800 MB of test vectors for 9000 lines of code
     * Non-commercial and research license only
 * ☢ libsodium.js: https://github.com/jedisct1/libsodium.js
