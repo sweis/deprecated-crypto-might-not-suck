@@ -8,12 +8,6 @@ End User Tool Summary
 ---------------------
 This is a quick summary of tools that are generally recommended for end users. See the [EFF's Surveillance Self Defense guides](https://ssd.eff.org/en) or  [Press Freedom Foundation's Encryption Works](https://freedom.press/encryption-works) guide for more information.
 
-* [GPG](https://www.gnupg.org/): Email encryption. 
-   * [EFF PGP Intro](https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp)
-   * [Windows PGP Installation](https://ssd.eff.org/en/module/how-use-pgp-windows)
-   * [Mac PGP Installation](https://ssd.eff.org/en/module/how-use-pgp-mac-os-x)
-   * [Linux PGP Installation](https://ssd.eff.org/en/module/how-use-pgp-linux)
-   * [RiseUp: OpenPGP Best Practices](https://riseup.net/en/gpg-best-practices)
 * [Signal](https://whispersystems.org/): Encrypted messaging & voice calls
    * [Signal Source](https://github.com/WhisperSystems?utf8=%E2%9C%93&query=Signal)
    * EFF Signal Guide for [Android](https://ssd.eff.org/en/module/how-use-signal-android) or [iOS](https://ssd.eff.org/en/module/how-use-signal-ios) 
@@ -29,6 +23,10 @@ The People’s Choice
     * Calls: ZRTP for key agreement, SRTP for call encryption
     * Messaging: OTR-like forward security & Axolotl key ratcheting by @trevp__
     * https://github.com/WhisperSystems?utf8=%E2%9C%93&query=Signal
+ * Wireguard: https://www.wireguard.io
+    * Modern VPN tunnel
+    * Built on Noise, Curve25519, etc.
+    * Jason Donenfeld (@zx2c4)
 
 Honorable Mentions
 -----------------
@@ -94,7 +92,7 @@ Post Quantum Libraries
 * ☢ New Hope: https://github.com/Yawning/newhope
   * Post-quantum key exchange by Peter Schwabe (@cryptojedi) et al.
   * Paper: https://cryptojedi.org/papers/newhope-20160328.pdf
-* ☢☢ Microsoft Supersingular Isogeny Diffie Hellman Library (SIDH): https://www.microsoft.com/en-us/research/project/sidh-library/
+* ☢ Microsoft Supersingular Isogeny Diffie Hellman Library (SIDH): https://www.microsoft.com/en-us/research/project/sidh-library/
 
 Community Efforts
 -----------------
@@ -112,6 +110,8 @@ Community Efforts
 
 Experimental Toolkits
 ---------------------
+* ☢ Zeutro Attribute Based Encryption C++ library: https://github.com/zeutro/openabe
+    * Ayo Akinyele (@ja_akinyele), Matthew Green (@matthew_d_green), Brent Waters, Susan Hohenberger
 * ☢ Advanced Crypto Software Collection: http://hms.isi.jhu.edu/acsc/
 * ☢ Relic Toolkit: https://github.com/relic-toolkit/relic
     * Bilinear maps, pairing-based crypto, ID-based crypto
@@ -174,11 +174,7 @@ Miscellaneous Project
     * "Get things from one computer to another, safely."
     * Built on NaCL
     * Brian Warner (@lotharrr)
-* ☢ Wireguard: https://www.wireguard.io
-    * Modern VPN tunnel
-    * Built on Noise, Curve25519, etc.
-    * Jason Donenfeld (@zx2c4)
-
+    
 Learning and Resources
 -----------------
 * Matasano Crypto Challenges (@tqbf): http://cryptopals.com/
@@ -206,3 +202,13 @@ There are many secret key value managers and I don't know which are any good. In
 * ☢ Sops: https://github.com/mozilla/sops
 * ☢ Summon: https://github.com/conjurinc/summon
 * ☢ Biscuit: https://github.com/dcoker/biscuit 
+
+PGP sucks but I'm still including it
+--------------------
+
+* [GPG](https://www.gnupg.org/): Email encryption. 
+   * [EFF PGP Intro](https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp)
+   * [Windows PGP Installation](https://ssd.eff.org/en/module/how-use-pgp-windows)
+   * [Mac PGP Installation](https://ssd.eff.org/en/module/how-use-pgp-mac-os-x)
+   * [Linux PGP Installation](https://ssd.eff.org/en/module/how-use-pgp-linux)
+   * [RiseUp: OpenPGP Best Practices](https://riseup.net/en/gpg-best-practices)
