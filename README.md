@@ -84,6 +84,9 @@ Libraries and Frameworks
     * Paul Kehrer (@reaperhulk) & Alex Gaynor (@alex_gaynor)
 * ☢ ECClib: https://www.microsoft.com/en-us/research/project/msr-elliptic-curve-cryptography-library/
     * Microsoft Research & Patrick Longa (@PatrickLonga)
+* ☢ HACL*: https://github.com/mitls/hacl-star
+    * Formally verified crypto library written in F* compiled to C
+    * INRIA Paris & Microsoft Research
 * libtomcrypt: https://github.com/libtom/libtomcrypt
     * A fairly comprehensive, modular and portable cryptographic toolkit
 
