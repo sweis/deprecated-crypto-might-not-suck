@@ -196,6 +196,7 @@ Learning and Resources
 Maybe Sucky Secret Managers
 -----------------
 There are many secret key value managers and I don't know which are any good. Including them here for future reference:
+* AWS Secret Manager: https://aws.amazon.com/secrets-manager/
 * ☢ pass: Unix password manager https://www.passwordstore.org/
 * ☢ KeyWhiz: https://github.com/square/keywhiz
 * ☢ Vault: https://github.com/hashicorp/vault
