@@ -23,7 +23,7 @@ The People’s Choice
     * Calls: ZRTP for key agreement, SRTP for call encryption
     * Messaging: OTR-like forward security & Axolotl key ratcheting by @trevp__
     * https://github.com/WhisperSystems?utf8=%E2%9C%93&query=Signal
- * Wireguard: https://www.wireguard.io
+ * WireGuard: https://www.wireguard.com
     * Modern VPN tunnel
     * Built on Noise, Curve25519, etc.
     * Jason Donenfeld (@zx2c4)
