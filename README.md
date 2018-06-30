@@ -89,6 +89,9 @@ Libraries and Frameworks
     * INRIA Paris & Microsoft Research
 * libtomcrypt: https://github.com/libtom/libtomcrypt
     * A fairly comprehensive, modular and portable cryptographic toolkit
+* ☢ kyber: https://github.com/dedis/kyber
+    * DEDIS Advanced Crypto Library for Go
+    * Decentralized and Distributed Systems Research Lab at EPFL
 
 Post Quantum Libraries
 -----------------
