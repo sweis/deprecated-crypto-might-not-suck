@@ -180,6 +180,11 @@ Miscellaneous Project
     * "Get things from one computer to another, safely."
     * Built on NaCL
     * Brian Warner (@lotharrr)
+* ☢ Encryption-Machine: https://github.com/gupta-saransh/Encryption-Machine
+    * This Uses Ciphers to encrypt alphanumeric data.
+    * A unique 4-digit encryption key is generated which is to be preserved in order to decrypt the data.
+    * Built on Java
+    * Saransh Gupta (@gupta-saransh)
     
 Learning and Resources
 -----------------
