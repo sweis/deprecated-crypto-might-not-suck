@@ -1,3 +1,5 @@
+**(Note: I stopped maintaining this in 2018, so it's fairly out of date.)**
+
 Crypto Projects that Might not Suck
 ===================================
 
