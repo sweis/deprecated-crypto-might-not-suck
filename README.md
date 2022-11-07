@@ -1,9 +1,10 @@
-**(Note: I stopped maintaining this in 2018, so it's fairly out of date.)**
-
-Crypto Projects that Might not Suck
+Old Crypto Projects that Might have not Sucked Years Ago
 ===================================
 
-This document originated with an informal survey of Twitter and several mailing lists asking for nominations for crypto projects that "didn't suck". Over 100 nominations were received and culled down to this list. Projects marked with an "☢" symbol are relatively new and considered experimental. Apologies to project creators who are omitted. Corrections are welcome via pull request.
+**Note: I stopped maintaining this in 2018, so it's very out of date.**
+
+
+This document originated with an informal survey of Twitter and several mailing lists asking for nominations for crypto projects that "didn't suck". It is from ~2014-2018 and is very out of date. Take it as a historical document. Over 100 nominations were received and culled down to this list. Projects marked with an "☢" symbol were relatively new and considered experimental at the time. Apologies to project creators who are omitted. Corrections are welcome via pull request.
 
 
 End User Tool Summary
