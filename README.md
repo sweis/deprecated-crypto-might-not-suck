@@ -1,4 +1,4 @@
-Old Crypto Projects that Might have not Sucked Years Ago
+Old Crypto Projects that Might have not Sucked Years Ago Left Here for Posterity
 ===================================
 
 **Note: I stopped maintaining this in 2018, so it's very out of date.**
